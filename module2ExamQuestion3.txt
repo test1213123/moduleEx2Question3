@@ -1,3 +1,3 @@
 this is sample text for question 3 - phy
 asdsad
-this is edited from main 
+this is edited from branch1 AND this is edited from main. fixed merged conflict for both. 
